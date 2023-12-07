@@ -1,0 +1,100 @@
+What is "code" in the context of programming?
+Which programming language is known for its readability and simplicity?
+What do HTML and CSS stand for in web development?
+What is the primary operating system used for servers and supercomputers?
+What does the term "stack" refer to in programming?
+What type of operation does a "query" typically perform in a database?
+What is the process of identifying and fixing errors in code called?
+What is an "error" in programming, and how is it usually handled?
+How is data stored and transferred in a computer, often measured in bits?
+What is the smallest unit of an image on a computer screen called?
+What device connects multiple computers in a network?
+What is the function of a "mouse" in computer input?
+What are "input" devices, and how do they interact with computers?
+What is the fundamental logic used in computer programming?
+What is an "array" in programming, and what is its purpose?
+What is "cloud computing," and how does it differ from traditional computing?
+What is the role of a "server" in a networked environment?
+What is a "script" in the context of web development?
+What is a "shell" in the context of operating systems?
+What is a "buffer" used for in computer science?
+What is the purpose of a "cache" in computer systems?
+How does a "cookie" help websites store user information?
+What is a "token" in the context of security and authentication?
+How is information represented in "binary" code?
+What is the "kernel" of an operating system?
+What is an "object" in object-oriented programming (OOP)?
+What is a "schema" in the context of databases?
+How has "mobile technology" transformed our lives?
+What is a "thread" in the context of multi-threaded programming?
+What is a "mutex," and why is it important in concurrent programming?
+How does a "node" function in a computer network?
+What is the purpose of "parsing" in programming?
+What is the significance of "regex" in text processing?
+How does a "pixel" contribute to digital images?
+What does a "query" do in a database system?
+What is a "route" in the context of network routing?
+How does a "loop" work in programming?
+What does "scope" refer to in variable visibility?
+How does a "socket" facilitate network communication?
+What role does a "server" play in client-server architecture?
+What defines a "class" in object-oriented programming?
+How do you create and manipulate a "file" in programming?
+What is an "index" used for in databases?
+What is the difference between a "float" and an "integer" in programming?
+What is the purpose of "debugging" in software development?
+How do you "watch" variables during debugging?
+What is a "stack" in the context of function calls?
+How does "trace" assist in debugging code?
+When do you set a "breakpoint" in your code?
+How does a "branch" affect the flow of a program?
+What is a "constant" in programming, and when is it used?
+How does a "variable" differ from a constant in programming?
+What happens during a "commit" operation in version control?
+What is the purpose of a "database" in data management?
+What is an "interface" in object-oriented programming?
+What is "memory" and how is it managed in a computer?
+How can "overloading" affect the use of functions in programming?
+What is a "package" in software development?
+What is a "protocol" in the context of network communication?
+What is a "request" in the HTTP protocol?
+What is a "response" in the context of web development?
+What is the "runtime" environment for a program?
+How does software "versioning" work?
+What is an "attribute" in the context of object-oriented programming?
+How is a "component" defined in software architecture?
+What is a "template" in the context of web development?
+What role does a "compiler" play in program execution?
+What is the purpose of a "function" in programming?
+What is a "framework" in software development?
+How do you design an efficient "algorithm"?
+What is an "exception" in programming, and how is it handled?
+What are "instructions" in machine code?
+How do you use a "library" in software development?
+What is an "operand" in mathematical operations?
+What is an "operator" in programming?
+What is a "parameter" in function definition?
+What is "syntax" in programming languages?
+How is program "execution" carried out by the computer?
+What is a "framework" in software development?
+How is "architecture" relevant in computer systems design?
+What is a "hyperlink" and how does it function on the web?
+How is "bandwidth" measured in network communication?
+What is a "firewall" and how does it protect networks?
+How do you defend against "malware" attacks?
+What is "encryption" and why is it important for data security?
+How can you recognize and prevent "phishing" attempts?
+What techniques are used in "debugging" software?
+What is "formatting" in the context of data presentation?
+How can you ensure "scalability" in a software system?
+What is "microcode" and how does it impact computer architecture?
+What principles govern "networking" in IT?
+How can "optimization" improve software performance?
+What is a "repository" in version control systems?
+How does "authentication" work in secure systems?
+What is "virtualization" and why is it valuable in IT?
+How can you prevent "buffer overflow" vulnerabilities?
+What is the role of a "database administrator"?
+How does "encryption" protect sensitive data?
+What is "machine learning" and its application in data analysis?
+How can "cloud computing" benefit businesses and individuals?

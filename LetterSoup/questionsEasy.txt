@@ -1,0 +1,100 @@
+What is "code" used for in programming?
+Which programming language uses "java" as its name?
+What does "html" stand for in web development?
+Name a popular programming language with two plus signs in its abbreviation.
+What is the name of the snake-related programming language known for its simplicity?
+In the context of computing, what does "data" refer to?
+What is the smallest unit of digital information, often represented as 0 or 1?
+Which programming language is often used for Android app development?
+Name a dynamic, object-oriented programming language known for its readability.
+What scripting language is commonly used for web development?
+What does "CPU" stand for in computer hardware?
+What component of a computer stores data permanently?
+What technology allows devices to connect wirelessly to the internet?
+What does "RAM" stand for in computer memory?
+Which operating system is known for its use in Apple devices like iPhones and iPads?
+What does "SDK" stand for in software development?
+What does "API" stand for in the context of web services?
+What is a commonly used command-line shell in Unix-based systems?
+Name a versatile scripting language often used for text processing.
+What does "CSS" stand for in web design?
+What does "GUI" refer to in the context of user interfaces?
+Which technology allows for asynchronous communication between a web server and a client?
+What type of database language is commonly used for managing relational databases?
+What does "XML" stand for in data representation?
+In web development, what format is often used for data interchange?
+What type of station is commonly found on a computer's desktop for quick access to applications?
+What does "JVM" stand for in the context of Java programming?
+What does "IDE" stand for in software development?
+What distributed version control system is widely used in software development?
+What is "Node.js" primarily used for in web development?
+Name a systems programming language known for its memory safety features.
+What programming language runs on the Java Virtual Machine (JVM)?
+What abbreviation is commonly used for the JavaScript programming language?
+What programming language is often used for building mobile apps with Flutter?
+What compiler infrastructure project is used in various programming languages?
+What does "CPU" stand for in the context of computer hardware?
+What component of a computer processes graphics and visual data?
+What data structure follows the First-In-First-Out (FIFO) principle?
+What technology is used to display images on a computer screen?
+What type of lighting technology is commonly used in electronic displays?
+What does "UDP" stand for in networking protocols?
+Which networking protocol ensures reliable data delivery over the internet?
+What is the abbreviation for User Datagram Protocol?
+What is the primary purpose of User Datagram Protocol (UDP)?
+In networking, what does "P2P" stand for?
+What version of the Internet Protocol is commonly used in today's networks?
+What version of the Internet Protocol succeeded IPv4?
+What technology is used to create secure private networks over the internet?
+What does "DNS" stand for in internet infrastructure?
+What protocol is used for sending email messages over the internet?
+What does "URL" stand for in web addresses?
+What protocol is commonly used for retrieving web pages from servers?
+What secure protocol is used for secure web browsing?
+What technology is used for styling web pages and making them visually appealing?
+What CSS preprocessor extends the functionality of CSS?
+What abbreviation represents the Document Object Model in web development?
+What data format is used for structuring and storing data?
+What language is used for querying and manipulating relational databases?
+What type of databases store data in a non-tabular form?
+What acronym stands for Object-Relational Mapping in database management?
+What technology enables asynchronous data retrieval in web applications?
+What cloud computing platform provides various services, including hosting and storage?
+What abbreviation represents Application Programming Interface?
+What toolkit provides tools and resources for software development?
+What protocol is used for remote procedure calls in distributed systems?
+What architectural style emphasizes stateless communication between clients and servers?
+What protocol is used for exchanging structured information in the implementation of web services?
+What technology is used for creating virtual private servers?
+What technology is used for creating secure private networks over the internet?
+What toolkit provides tools and resources for software development?
+What technology is used for creating secure private networks over the internet?
+What toolkit provides tools and resources for software development?
+What query language is commonly used for managing relational databases?
+What technology facilitates the mapping of objects to database records?
+What package manager is commonly used for managing JavaScript libraries?
+What package manager is commonly used for managing Perl modules?
+What abbreviation represents Integrated Development Environment?
+What command-line interface is commonly used in Unix-like operating systems?
+What protocol is used for transmitting data over the internet?
+What protocol ensures reliable data delivery over the internet?
+What markup language is used for creating web pages?
+What technology is used for styling web pages?
+What encryption protocol is used for secure data transmission?
+What security protocol ensures secure data transfer over the internet?
+What encryption algorithm is commonly used for securing data?
+What encryption algorithm is often used for data encryption?
+What data format is used for structuring and storing data?
+What format is commonly used for data interchange in web applications?
+What data serialization format is often used for configuration files?
+What configuration file format is commonly used in software settings?
+What character encoding is widely used for text representation?
+What version of the Internet Protocol is commonly used today?
+What version of the Internet Protocol succeeded IPv4?
+What technology enables wireless network connections?
+What standard is used for transmitting syndicated web content?
+What vector graphics format is commonly used for web graphics?
+What bitmap image format supports lossless compression?
+What image format is commonly used for photographs?
+What image format supports animations and transparency?
+What bitmap image format is associated with Microsoft Windows?

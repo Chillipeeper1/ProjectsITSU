@@ -1,0 +1,100 @@
+What is "code" in programming?
+Which programming language is known for its readability and versatility?
+What is the core component of the open-source operating system known as "Ubuntu"?
+What programming language is often used for developing Windows applications?
+How is data represented in computers using 0s and 1s?
+What is the term for the storage capacity of a computer's RAM?
+What do developers do to identify and fix issues in their code?
+What is the smallest unit of data in computing?
+How do you transform human-readable code into machine-executable code?
+What aspect of a programming language defines its rules for writing code?
+What kind of computer manages network resources and services?
+What is a fundamental building block for organizing data in programming?
+What is the part of code that developers analyze for errors?
+What is a device that forwards data packets between computer networks?
+What data structure follows the principle of "first-in, first-out"?
+What data structure is used for organizing data with a "last-in, first-out" approach?
+What data structure is similar to a stack but allows access from both ends?
+What part of a computer's memory is used for temporary data storage during data transfer?
+What is the core of an operating system that manages hardware resources?
+What networking device connects multiple devices in a local area network?
+What device connects a computer to the internet?
+What is used for communication between computers over a network?
+What is a separate path of execution within a program?
+What is a hardware component that stores frequently accessed data?
+What is a fundamental concept in object-oriented programming?
+What is an instance of a class in object-oriented programming?
+What is a function or procedure associated with an object in programming?
+What is a memory location that stores the address of another memory location?
+What is a self-contained unit of code in programming?
+What is a data type that represents true or false values?
+What data type represents whole numbers in programming?
+What data type represents numbers with decimal points in programming?
+What data type represents sequences of characters?
+What data type represents a single character?
+What is a control structure that repeats code until a condition is met?
+What is used to store and manage structured data in a computer?
+What is a step-by-step procedure for solving a problem in programming?
+What is a named piece of reusable code in programming?
+What is a symbol used to perform operations in programming?
+What is a set value that does not change during program execution?
+What is a block of code that performs a specific task?
+What is a collection of pre-written code and tools for development?
+What is a collection of pre-written code that can be reused in multiple projects?
+What software translates human-readable code into machine code?
+What is a set of instructions that a computer follows to perform a task?
+What is the reasoning behind a piece of code or a program?
+What is the term for a piece of code that is executed repeatedly?
+What is the endpoint of communication in a network?
+What is a software development environment for creating applications?
+What is a structured collection of data stored electronically?
+What defines the structure of a database in terms of tables and fields?
+What is used to retrieve specific information from a database?
+What is a device that connects multiple computers in a network?
+What part of a network handles requests from client devices?
+Where is data stored in a computer for long-term access?
+What device allows data to be read from and written to storage media?
+What is software that controls hardware devices?
+What is a set of rules and conventions for communication?
+What is a small unit of data transmitted over a network?
+What is the process of converting data into a secret code for security?
+What is a protective barrier for a network or computer system?
+What is the term for deceptive attempts to obtain sensitive information?
+What is the process of making a duplicate copy of data?
+What is a group of interconnected computers working together?
+What is a technology that allows running applications without managing infrastructure?
+What is a step-by-step procedure for solving a problem in software development?
+What is the term for the ability of a system to handle increasing workloads?
+What is the process of identifying and fixing issues in software?
+What is the practice of regularly merging code changes into a shared repository?
+What allows users to interact with software or hardware?
+What is required to gain access to a computer system or application?
+What is a computing model where the physical hardware is abstracted?
+What is a type of software license that grants specific usage rights?
+What is a copy of a codebase used to work on a specific feature?
+What is the act of combining code changes from different branches?
+What can occur when two developers make conflicting changes to code?
+What is the action of saving code changes in version control?
+What is the process of releasing software for use by others?
+What is the practice of automatically testing code changes?
+What is the practice of integrating code frequently and regularly?
+What is the process of identifying and fixing issues in software development?
+What is a framework that provides reusable software components?
+What is a collection of programs and data that make a computer useful?
+What is an approach to software development emphasizing flexibility?
+What is a software development methodology focused on customer feedback?
+What is an agile development process with fixed-length development cycles?
+What is a time-boxed development cycle in the Scrum methodology?
+What is a list of tasks to be completed in a project?
+What is someone who interacts with a software application?
+What is a visual or textual method of interacting with a software system?
+What is the process of verifying the identity of a user?
+What is the process of granting access to specific resources?
+What is a computing model where code runs in response to events?
+What is a step-by-step procedure for solving a problem in software performance?
+What is the ability of a system to handle increasing workloads?
+What is the process of identifying and fixing performance bottlenecks?
+What is the practice of continuously monitoring system performance?
+What is the act of collecting data about software execution?
+What is the process of analyzing and optimizing software performance?
+What is the act of measuring and evaluating program execution?
